@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-New conflict
-=======
-2nd conflict file
->>>>>>> 439d31915d6bbc23f55b33fcf9125a14b10dd2b3
+cccccccccccccccccccccccccccccc
