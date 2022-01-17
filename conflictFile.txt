@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Conflict resolved
+=======
+This is a conflict file.
+>>>>>>> 5fffd359bc5f0c5b65148a064c03755f06f28f80
